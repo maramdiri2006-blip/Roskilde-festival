@@ -61,7 +61,12 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.2.8f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Manahil\Scripts\Effects\IntoxicationSystem.cs" />
+    <Compile Include="Assets\Manahil\Scripts\Player\PlayerMotor.cs" />
+    <Compile Include="Assets\Manahil\Scripts\Effects\VisualEffectsController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Maram\Scripts\VisualizationManager.cs" />
+    <Compile Include="Assets\Manahil\Scripts\Effects\AlteredStateEffects.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
